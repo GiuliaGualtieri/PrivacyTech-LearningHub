@@ -5,6 +5,7 @@ This repository collects theoretical materials, articles, videos, workshops, and
 - **Federated Learning**
 - **Homomorphic Encryption**
 - **Secure Multi-Party Computation**
+  
 and other data privacy innovations.
 
 **Objective**: This repository serves as a structured hub for my studies, helping me track and build upon my knowledge in PETs. 
